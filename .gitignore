@@ -1,0 +1,7 @@
+# Ignore large output files
+output/*.mat
+output/**/*.mat
+
+# Ignore all .mat files in output directory
+output/killian/*.mat
+output/SignZero/*.mat
